@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": ".hibernat",
+    "type": "java.lang.String",
+    "description": "A description for '.hibernat'"
+  },
+  {
+    "name": "spring.datasource.jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa'"
+  }
+]}
